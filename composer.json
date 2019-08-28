@@ -1,0 +1,14 @@
+{
+    "name": "piurafunk/gcp-tasks-laravel-queue-driver",
+    "description": "A Laravel queue driver for Google Cloud Tasks",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Funk",
+            "email": "piurafunk@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
